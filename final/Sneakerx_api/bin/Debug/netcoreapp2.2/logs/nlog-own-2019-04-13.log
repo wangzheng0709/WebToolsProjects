@@ -1,0 +1,27 @@
+2019-04-13 16:34:00.4972|TRACE|Sneakerx_api.Models.UserManager|Sample trace message |url: |action: 
+2019-04-13 16:34:00.5540|DEBUG|Sneakerx_api.Models.UserManager|Sample debug message |url: |action: 
+2019-04-13 16:34:00.5565|INFO|Sneakerx_api.Models.UserManager|Sample informational message |url: |action: 
+2019-04-13 16:34:00.5565|WARN|Sneakerx_api.Models.UserManager|Sample warning message |url: |action: 
+2019-04-13 16:34:00.5565|ERROR|Sneakerx_api.Models.UserManager|Sample error message |url: |action: 
+2019-04-13 16:34:00.5576|FATAL|Sneakerx_api.Models.UserManager|Sample fatal message |url: |action: 
+2019-04-13 16:34:00.6404|TRACE|Sneakerx_api.Controllers.ServerController|************* User: test log in unsuccessfully with a wrong password! ************* |url: |action: 
+2019-04-13 16:34:08.5614|TRACE|Sneakerx_api.Controllers.ServerController|************* User: test log in unsuccessfully with a wrong password! ************* |url: |action: 
+2019-04-13 16:34:16.9275|TRACE|Sneakerx_api.Controllers.ServerController|************* User: test log in unsuccessfully with a wrong password! ************* |url: |action: 
+2019-04-13 16:34:31.7107|TRACE|Sneakerx_api.Controllers.ServerController|************* User: test log in successfully *************! |url: |action: 
+2019-04-13 16:34:31.9991|TRACE|Sneakerx_api.Controllers.ServerController| |url: |action: 
+2019-04-13 16:34:37.2396|TRACE|Sneakerx_api.Controllers.ServerController|User add item: 3 to cart successfully! |url: |action: 
+2019-04-13 16:34:37.8956|TRACE|Sneakerx_api.Controllers.ServerController| |url: |action: 
+2019-04-13 16:34:38.0797|TRACE|Sneakerx_api.Controllers.ServerController| |url: |action: 
+2019-04-13 16:34:43.2193|TRACE|Sneakerx_api.Controllers.ServerController| |url: |action: 
+2019-04-13 16:34:46.7823|TRACE|Sneakerx_api.Controllers.ServerController|User: 9 check out for an order successfully! |url: |action: 
+2019-04-13 16:34:46.9840|TRACE|Sneakerx_api.Controllers.ServerController| |url: |action: 
+2019-04-13 16:34:50.3682|TRACE|Sneakerx_api.Controllers.ServerController| |url: |action: 
+2019-04-13 16:34:54.8342|TRACE|Sneakerx_api.Controllers.ServerController| |url: |action: 
+2019-04-13 16:35:02.7573|TRACE|Sneakerx_api.Models.User|user create - Trace |url: |action: 
+2019-04-13 16:35:02.7588|DEBUG|Sneakerx_api.Models.User|user create - Debug |url: |action: 
+2019-04-13 16:35:02.7598|INFO|Sneakerx_api.Models.User|user create - Info |url: |action: 
+2019-04-13 16:35:02.7615|WARN|Sneakerx_api.Models.User|user create - Warn |url: |action: 
+2019-04-13 16:35:02.7615|ERROR|Sneakerx_api.Models.User|user create - Error |url: |action: 
+2019-04-13 16:35:02.7627|FATAL|Sneakerx_api.Models.User|user create - Fatal |url: |action: 
+2019-04-13 16:35:02.7801|TRACE|Sneakerx_api.Controllers.ServerController|User: 9 reset password successfully! |url: |action: 
+2019-04-13 16:35:05.9468|TRACE|Sneakerx_api.Controllers.ServerController| |url: |action: 

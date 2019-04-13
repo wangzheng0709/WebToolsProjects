@@ -1,0 +1,24 @@
+2019-04-13 16:20:05.7105 Info Message Template Auto Format enabled
+2019-04-13 16:20:05.7223 Info Loading assembly: NLog.Web.AspNetCore
+2019-04-13 16:20:05.8359 Info Adding target File Target[allfile]
+2019-04-13 16:20:05.8382 Info Adding target File Target[ownFile-web]
+2019-04-13 16:20:05.8543 Info Configured from an XML element in /Users/G/Documents/2019_Spring/web_tools_6250/HW5/Sneakerx_api/bin/Debug/netcoreapp2.2/NLog.config...
+2019-04-13 16:20:05.8820 Info Found 44 configuration items
+2019-04-13 16:20:05.9946 Info Configuration initialized.
+2019-04-13 16:20:06.0796 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2019-04-13 16:26:37.6633 Info Message Template Auto Format enabled
+2019-04-13 16:26:37.6761 Info Loading assembly: NLog.Web.AspNetCore
+2019-04-13 16:26:37.7825 Info Adding target File Target[allfile]
+2019-04-13 16:26:37.7857 Info Adding target File Target[ownFile-web]
+2019-04-13 16:26:37.7944 Info Configured from an XML element in /Users/G/Documents/2019_Spring/web_tools_6250/HW5/Sneakerx_api/bin/Debug/netcoreapp2.2/NLog.config...
+2019-04-13 16:26:37.8228 Info Found 44 configuration items
+2019-04-13 16:26:37.9211 Info Configuration initialized.
+2019-04-13 16:26:37.9884 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2019-04-13 16:33:59.2284 Info Message Template Auto Format enabled
+2019-04-13 16:33:59.2389 Info Loading assembly: NLog.Web.AspNetCore
+2019-04-13 16:33:59.3400 Info Adding target File Target[allfile]
+2019-04-13 16:33:59.3423 Info Adding target File Target[ownFile-web]
+2019-04-13 16:33:59.3509 Info Configured from an XML element in /Users/G/Documents/2019_Spring/web_tools_6250/HW5/Sneakerx_api/bin/Debug/netcoreapp2.2/NLog.config...
+2019-04-13 16:33:59.3794 Info Found 44 configuration items
+2019-04-13 16:33:59.4732 Info Configuration initialized.
+2019-04-13 16:33:59.5367 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.

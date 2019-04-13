@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{CD620477-2829-4B66-89A7-F84742E308D2}|location_change">
+  <MonoDevelop.Ide.ItemProperties.Sneakerx__api PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Models/CardInfo.cs">
+    <Files>
+      <File FileName="Models/CardInfo.cs" Line="12" Column="6" />
+      <File FileName="Models/CardManager.cs" Line="55" Column="28" />
+      <File FileName="Models/Cart.cs" Line="98" Column="40" />
+      <File FileName="Models/CartInfo.cs" Line="1" Column="1" />
+      <File FileName="Models/DatabaseConnection.cs" Line="48" Column="43" />
+      <File FileName="Models/Item.cs" Line="33" Column="10" />
+      <File FileName="Models/ItemManager.cs" Line="21" Column="40" />
+      <File FileName="Models/Log.cs" Line="1" Column="1" />
+      <File FileName="Models/LoginInfo.cs" Line="1" Column="1" />
+      <File FileName="Models/OrderInfo.cs" Line="1" Column="1" />
+      <File FileName="Models/OrderManager.cs" Line="67" Column="40" />
+      <File FileName="Models/RegisterInfo.cs" Line="1" Column="1" />
+      <File FileName="Models/User.cs" Line="47" Column="30" />
+      <File FileName="Models/UserManager.cs" Line="186" Column="6" />
+      <File FileName="Controllers/ServerController.cs" Line="117" Column="30" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

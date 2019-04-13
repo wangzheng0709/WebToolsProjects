@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{97BA0A23-F108-4A97-90CD-4BFF506B0F89}|location_change">
+  <MonoDevelop.Ide.ItemProperties.Sneakerx__api PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Models/UserManager.cs">
+    <Files>
+      <File FileName="Controllers/ServerController.cs" Line="237" Column="10" />
+      <File FileName="Models/UserManager.cs" Line="91" Column="36" />
+      <File FileName="Models/DatabaseConnection.cs" Line="48" Column="53" />
+      <File FileName="Controllers/ValuesController.cs" Line="1" Column="1" />
+      <File FileName="Models/Cart.cs" Line="127" Column="60" />
+      <File FileName="Models/CartInfo.cs" Line="12" Column="6" />
+      <File FileName="Models/Item.cs" Line="12" Column="6" />
+      <File FileName="Models/ItemManager.cs" Line="13" Column="6" />
+      <File FileName="Models/LoginInfo.cs" Line="12" Column="6" />
+      <File FileName="Startup.cs" Line="40" Column="1" />
+      <File FileName="Models/CardInfo.cs" Line="24" Column="10" />
+      <File FileName="Models/CardManager.cs" Line="60" Column="51" />
+      <File FileName="Models/OrderInfo.cs" Line="12" Column="6" />
+      <File FileName="Models/OrderManager.cs" Line="26" Column="31" />
+      <File FileName="Models/RegisterInfo.cs" Line="1" Column="1" />
+      <File FileName="Models/User.cs" Line="46" Column="35" />
+      <File FileName="Properties/PublishProfiles/hw5-api-6250 - Web Deploy.pubxml" Line="1" Column="1" />
+      <File FileName="Properties/PublishProfiles/hw5-api-info6250 - Web Deploy.pubxml" Line="1" Column="1" />
+      <File FileName="Properties/PublishProfiles/hw5-info6250 - Web Deploy.pubxml" Line="1" Column="1" />
+      <File FileName="Properties/PublishProfiles/info6250-hw5-server - Web Deploy.pubxml" Line="1" Column="1" />
+      <File FileName="Properties/PublishProfiles/Sneakerx-api-final - Web Deploy.pubxml" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
